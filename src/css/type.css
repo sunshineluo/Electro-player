@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4117678 */
+  src: url('../css/font3.woff2') format('woff2'),
+       url('../css/font2.woff') format('woff'),
+       url('../css/font1.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-github:before {
+  content: "\e885";
+}
+
+.icon-pureopen:before {
+  content: "\e6d8";
+}
+
+.icon-pureclose:before {
+  content: "\e6d9";
+}
+
+.icon-like:before {
+  content: "\e96f";
+}
+
+.icon-pause-bold:before {
+  content: "\e608";
+}
+
+.icon-play-bold:before {
+  content: "\e609";
+}
+
+.icon-prev:before {
+  content: "\e60a";
+}
+
+.icon-next:before {
+  content: "\e60b";
+}
+
+.icon-pause-circle:before {
+  content: "\e690";
+}
+
+.icon-play-circle:before {
+  content: "\e691";
+}
+
+.icon-history:before {
+  content: "\e694";
+}
+
+.icon-playlist:before {
+  content: "\e696";
+}
+
+.icon-comment:before {
+  content: "\e69c";
+}
+
+.icon-random:before {
+  content: "\e6a0";
+}
+
+.icon-order:before {
+  content: "\e6a1";
+}
+
+.icon-oneloop:before {
+  content: "\e6a2";
+}
+
+.icon-listloop:before {
+  content: "\e6a3";
+}
+
+.icon-delete:before {
+  content: "\e606";
+}
+
+.icon-search:before {
+  content: "\e607";
+}
+
+.icon-turnoff:before {
+  content: "\e6b0";
+}
+
+.icon-turnon:before {
+  content: "\e6b2";
+}
+
+.icon-album:before {
+  content: "\e6ba";
+}
+
+.icon-toplist:before {
+  content: "\e6bd";
+}
